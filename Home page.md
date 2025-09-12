@@ -13,7 +13,7 @@
         <p>
         <h3> home page</h3>
             news of the day
-            <a href="README.md"></a>
+            <a href="README.md"> Click Here</a>
            </p>
     </body>
 </html>
