@@ -1,1 +1,18 @@
-
+# johnsusername.github.io
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <h1>news so that I get a good grade</h1>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="John Enestvedt">
+        <meta name="keywords" content=" news, grades">
+        <meta name="description" content=" news so I get a good grade">  
+    </head>
+    <body>
+        <p>
+        <h3> home page</h3>
+            news of the day
+           </p>
+    </body>
+</html>
