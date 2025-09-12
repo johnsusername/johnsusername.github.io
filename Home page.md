@@ -12,8 +12,8 @@
     <body>
         <p>
         <h3> home page</h3>
-            news of the day
-            <a href="README.md"> Click Here</a>
+            News of the Cadott, Festival changed their name to hoof beats. I don't agree with the decision and have created an article explaining why I find it bad. I hope they realize how bad the name is and change it, but if not, at least the truth will be out. You can visit the site using this link here.
+        <a href="README.md"> Click Here</a>
            </p>
     </body>
 </html>
