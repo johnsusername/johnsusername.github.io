@@ -18,7 +18,8 @@
         country fest was a great name and well-known threw out chippwa county. <q>"hoof beat was called country fest for 37 years according to 15news".</q> if it was called country fest for 37 years why change it now. besides even if they were forced to change it, why hoof beats? i know they could have made something better.
             <hr/>
           <h3>  A name may not be the most importiant thing but its not pointless </h3> according to volume, <q>"1 they changed the name to better reflect their roots". </q> But hat is unnessissary country fest's music choices should do that instead of the name. All in all, country fest isnt going to be ruined by the name but it wasent a very good choice. thats why they should change thier name back to country fest.
-    </p>
+   <a href="Home Page.md">Back to HomePage</a>
+        </p>
     </body>
 </html>
 
