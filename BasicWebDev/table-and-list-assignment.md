@@ -1,15 +1,15 @@
 <table>
     <caption>rocky movies vs their overall income</caption>
     <tr>
-        <th colspan="2">movie</th>
+        <th>movie</th>
         <th colspan="2">income</th>
     </tr>
     <tr>
-        <td colspan="2">rocky</td>
+        <td>rocky</td>
         <td>225 million</td>
     </tr>
     <tr>
-        <td colspan="2">rocky 2</td>
+        <td>rocky 2</td>
         <td>200 million</td>
     </tr>
 </table>
