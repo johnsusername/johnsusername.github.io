@@ -4,10 +4,17 @@
         border: 1px solid black;
     }
 </style>
-    <caption>movies vs their overall income</caption>
+    <caption>rocky movies vs their overall income</caption>
     <tr>
-        <td>Row 1, Column 1</td>
-        <td>Row 1, Column 2</td>
+        <th>movie</td>
+        <th>income</td>
     </tr>
-
+    <tr>
+        <td>rocky</td>
+        <td>225 million</td>
+    </tr>
+    <tr>
+        <td>rocky 2</td>
+        <td>200 million</td>
+    </tr>
 </table>
