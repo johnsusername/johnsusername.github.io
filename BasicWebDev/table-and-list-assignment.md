@@ -5,11 +5,11 @@
         <th colspan="2">income</th>
     </tr>
     <tr>
-        <td>rocky</td>
+        <td colspan="2">rocky</td>
         <td>225 million</td>
     </tr>
     <tr>
-        <td>rocky 2</td>
+        <td colspan="2">rocky 2</td>
         <td>200 million</td>
     </tr>
 </table>
