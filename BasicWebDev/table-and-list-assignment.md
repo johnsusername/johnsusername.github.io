@@ -1,9 +1,4 @@
 <table>
-<style>
-  table, tr, td {
-        border: 1px solid black;
-    }
-</style>
     <caption>rocky movies vs their overall income</caption>
     <tr>
         <th>movie</td>
