@@ -1,4 +1,3 @@
-<!--start of test-->
 <form>
  <fieldset>
     <legend>math quiz</legend>
@@ -7,11 +6,11 @@
     Email: <input type="text" name="email"><br/>
     <br/>
     password: <input type="password" name="password"><br/>
-   <p>what is &pie;?</p>
+   <p>what is &pi;?</p>
     <select>
-    <option>&pie; = 3.19</option>
-    <option selected>&pie; = 3.14</option>
-    <option>&pie; = 3 </option>
+    <option>&pi; = 3.19</option>
+    <option selected>&pi; = 3.14</option>
+    <option>&pi; = 3 </option>
   </select>
    <p>what is 2 &times; 2?</p>
  <select>
@@ -23,9 +22,8 @@
    <select>
     <option>8</option>
     <option selected>5</option>
-    <option>idk</option>
+    <option>idk</option> 
   </select>
-   <!--start of test-->
  </fieldset>
   <button type="submit">Submit</button>
-</form>
+</form> 
