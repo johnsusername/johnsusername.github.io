@@ -1,7 +1,8 @@
 <form>
  <fieldset>
     <legend>math quiz</legend>
-    <p>sign-in?
+    <!--start of test-->
+  <p>sign-in?
     Just fill in the information below!</p>
     Email: <input type="text" name="email"><br/>
     <br/>
@@ -25,5 +26,6 @@
     <option>idk</option> 
   </select>
  </fieldset>
+ <!--end of test-->
   <button type="submit">Submit</button>
 </form> 
