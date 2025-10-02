@@ -8,11 +8,28 @@
    Which table will this code produce?
 <table>
    <tr>
+      <td colspan="3">landscape colors</td>
+   </tr>
+   <tr>
+      <td style="backround-color:;">palesilver</td>
+      <td style="color:#;">blackblue</td>
+      <td style="color:#;">lightslatgrey</td>
+      <td style="color:#;">marble blue</td>
+   </tr>
+   <tr>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
    </tr>
    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
