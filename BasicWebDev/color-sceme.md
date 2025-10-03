@@ -11,7 +11,7 @@
       <td colspan="3">landscape colors</td>
    </tr>
    <tr>
-      <td style="backround-color:rgb(201,192,187);">palesilver</td>
+      <td style="background-color:rgb(201,192,187);">palesilver</td>
       <td style="color:rgb(4,7,32);">blackblue</td>
       <td style="color:rgb(224,229,229);">lightslatgrey</td>
       <td style="color:rgb(86,109,126);">marble blue</td>
